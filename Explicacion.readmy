@@ -4,13 +4,13 @@ Valeria Carvajal Salazar - 2372134
 Luisa Fernanda Castro Angulo  - 2326136
 
 Como sabemos los resultados del reporte nos indica a que cantidad del codigo se le ha
-realizado pruebas y a que cantidad no, los cual puede ayudar con la identificación de
+realizado pruebas y a que cantidad no, lo cual puede ayudar con la identificación de
 errores o nos puede ayudar con la identificación de codigo innecesario para asi poder 
 optimizarlo, entre otras cosas.
 
 Como se puede observar en el reporte, tenemos como resultados que:
 
-De  los dos achivos creados:
+De los dos achivos creados:
 
 operaciones.py : Ha sido completamente ejecutado con pruebas al menos una vez.
 
