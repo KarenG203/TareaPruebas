@@ -1,0 +1,26 @@
+Nombres:
+Karen González Molina - 2372079
+Valeria Carvajal Salazar - 2372134
+Luisa Fernanda Castro Angulo  - 2326136
+
+Como sabemos los resultados del reporte nos indica a que cantidad del codigo se le ha
+realizado pruebas y a que cantidad no, los cual puede ayudar con la identificación de
+errores o nos puede ayudar con la identificación de codigo innecesario para asi poder 
+optimizarlo, entre otras cosas.
+
+Como se puede observar en el reporte, tenemos como resultados que:
+
+De  los dos achivos creados:
+
+operaciones.py : Ha sido completamente ejecutado con pruebas al menos una vez.
+
+test_operaciones.py : El resultado indica que solo el 84% del codigo ha sido ejecutado.
+Por lo cual el 16% que queda puede tener errores o no estar optimas.
+
+En cuanto a las funciones realizadas se obtuvo como resultado que la mayoria de las 
+funciones han sido ejecutadas con pruebas a excepción de un 30% de las 27 declaraciones
+en el archivo test_operaciones.py las cuales no fueron probadas.
+
+
+Lo que se puede concluir es que la cobertura esta detectando el codigo que esta resultando
+de alguna manera inservible en el archivo test_operaciones.py.
